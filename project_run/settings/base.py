@@ -27,6 +27,9 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['*']
 
+COMPANY_NAME = "HELPER"
+SLOGAN = "My are the best"
+CONTACTS = "+79999999999"
 
 # Application definition
 
